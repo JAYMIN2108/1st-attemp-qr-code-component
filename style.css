@@ -12,42 +12,42 @@ body{
     min-height: 100vh;
     align-items: center;
     display: flex;
-    font-size: 15px;
+    font-size: 1.5rem;
 }
 
 .container{
-    max-width: 320px;
+    max-width: 32rem;
     margin: 0 auto;
     
 }
 
 .card{
     background-color:  hsl(0, 0%, 100%);
-    padding: 18px;
-    border-radius: 17px;
+    padding: 1.8rem;
+    border-radius: 1.7rem;
     text-align: center;
     
 }
 
 .card img{
     width: 100%;
-    border-radius: 12px;
+    border-radius: 1.2rem;
 }
 .text{
-    padding: 20px 10px;
+    padding: 2.0rem 1.0rem;
 }
 .text h2{
     color: hsl(218, 44%, 22%); 
-    padding-bottom: 15px;
+    padding-bottom: 1.5rem;
 }
 text p{
     color: hsl(220, 15%, 55%);
 }
 
 .attribution{
-    font-size: 11px;
+    font-size: 1.1rem;
     text-align: center;
-    padding: 11px;
+    padding: 1.1rem;
 }
 .attribution a{
     color: hsl(228, 45%, 44%);
