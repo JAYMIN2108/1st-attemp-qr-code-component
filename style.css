@@ -36,7 +36,7 @@ body{
 .text{
     padding: 2.0rem 1.0rem;
 }
-.text h2{
+.text h1{
     color: hsl(218, 44%, 22%); 
     padding-bottom: 1.5rem;
 }
